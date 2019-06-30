@@ -30,7 +30,7 @@ npm test
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 For 3 tasks:
-1) it's under /src/FetchApi.js
+1) it's under /src/FetchApi.js (I used webpack dev-server and axios)
 2) basic info in the following screenshot 
 3) basic info in the following screenshot
 
